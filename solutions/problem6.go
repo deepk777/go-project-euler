@@ -16,6 +16,6 @@ func Sol6(){
 		sumOfSquaresOfN += i*i
 	}
 
-	fmt.Printf("\nAnswer to problem 6 = %f\n", math.Abs(float64(sumOfSquaresOfN - squareOfSumOfN)))
+	fmt.Printf("Answer to problem 6 = %d\n", int(math.Abs(float64(sumOfSquaresOfN - squareOfSumOfN))))
 
 }

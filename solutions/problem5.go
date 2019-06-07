@@ -33,5 +33,5 @@ func Sol5(){
 		lcm = lcm*i/cgcd
 	}
 
-	fmt.Printf("\nAnswer to problem 5 = %d\n", lcm)
+	fmt.Printf("Answer to problem 5 = %d\n", lcm)
 }

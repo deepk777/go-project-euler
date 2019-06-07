@@ -47,7 +47,7 @@ func Sol4() {
 			}
 		}
 	}
-	fmt.Printf("\nAnswer to problem 4 = %d\n", maxProd)
+	fmt.Printf("Answer to problem 4 = %d\n", maxProd)
 	// fmt.Println(isPalindrome(906609))
 
 }
